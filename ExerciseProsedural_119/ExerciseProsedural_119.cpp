@@ -24,6 +24,7 @@ string status3(double rata, double nil) {
 	if (rata >= 70 || nil >= 80)
 		return "joko lulus";
 	else
+
 		return "joko gagal";
 }
 
